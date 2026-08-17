@@ -1,5 +1,7 @@
 # Telefonía de negocio y atención al cliente: qué armar según tu tamaño (2026)
 
+![Comparativa 2026 — TonyCiencia](banner.png)
+
 Contestar el teléfono, tener un número profesional, y dar soporte por ticket son tres problemas distintos, aunque casi todos los que buscan "software de telefonía" terminan mezclando los tres en la misma búsqueda. Un sistema telefónico en la nube no resuelve que nadie atienda cuando llaman fuera de horario. Y ninguna de las dos cosas tiene nada que ver con gestionar tickets de soporte B2B. Esta comparativa está separada así, por el problema real que resuelve cada herramienta, no por categoría de marketing.
 
 ## Comparativa rápida
